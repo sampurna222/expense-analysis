@@ -1,0 +1,11 @@
+date,category,amount,type
+2024-01-01,Food,250,Expense
+2024-01-02,Rent,8000,Expense
+2024-01-03,Transport,300,Expense
+2024-01-05,Salary,30000,Income
+2024-01-06,Food,400,Expense
+2024-01-08,Entertainment,500,Expense
+2024-02-01,Food,280,Expense
+2024-02-02,Rent,8000,Expense
+2024-02-05,Salary,30000,Income
+2024-02-07,Travel,1200,Expense
