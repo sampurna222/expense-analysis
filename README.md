@@ -26,3 +26,36 @@ A simple **Streamlit-based Expense Analysis application** that helps visualize a
 
 ## Project Structure
 
+
+---
+
+## Installation & Setup
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/sampurna222/expense-analysis.git
+cd expense-analysis
+
+
+python -m venv venv
+venv\Scripts\activate
+
+
+pip install -r requirements.txt
+
+streamlit run app.py
+
+
+---
+
+## Next steps (important)
+
+After pasting this into `README.md`:
+
+```bat
+git add README.md
+git commit -m "Add README"
+git push
+
+
+
